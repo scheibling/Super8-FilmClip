@@ -1,9 +1,9 @@
 $fn=190;
 $roll_diam=70;
-$clip_width=9.5;
+$clip_width=9.9;
 $clip_length=16;
 $clip_height=7.8;
-$fin_width=0.8;
+$fin_width=0.7;
 $top_height=1.5;
 intersection() {
     difference() {
